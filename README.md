@@ -1,5 +1,5 @@
 
-# Desafio Módulo 5 - Backend
+# Sistema pdv - Backend
 
 Seja bem vindo(a) a documentação da api do nosso pdv.
 
